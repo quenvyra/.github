@@ -1,11 +1,6 @@
 <div align="center">
-
-# Quenvyra
-
 **AI customer support for headless commerce, grounded in your own store data.**
-
 [Website](https://www.quenvyra.app/) · [Get a license](https://www.quenvyra.app/) · [Editions](https://www.quenvyra.app/#editions)
-
 </div>
 
 ---
